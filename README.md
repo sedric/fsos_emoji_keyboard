@@ -5,7 +5,7 @@ As Patchmanager 3.0 does not work with SFOS 4.0 and patch support is experimenta
 
 I did not modify anything to their work, just extracting files from the diff and prepare another layout, marked "Emoji(F)" in Sailfish layout configuration.
 
-To use it, enable dev mode and copy files by yourself.
+To use it, enable dev mode and copy files by yourself, a lipstick restart might be needed.
 
 You will also need to install some emoji pack : https://gitlab.com/whisperfish/whisperfish-wiki/-/blob/master/Emojis.md
 
