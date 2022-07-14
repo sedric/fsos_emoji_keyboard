@@ -9,4 +9,4 @@ To use it, enable dev mode and copy files by yourself, a lipstick restart might 
 
 You will also need to install some emoji pack : https://gitlab.com/whisperfish/whisperfish-wiki/-/blob/master/Emojis.md
 
-Tested on SailfishOS Kvarken (4.1.0.24) on Xperia XA2+.
+Tested on SailfishOS Kvarken (4.1.0.24) to Vanha Rauma (4.4.0.68) on Xperia XA2+.
